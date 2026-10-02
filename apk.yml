@@ -11,7 +11,7 @@ jobs:
       matrix:
         include:
           - nome: cliente
-            titulo: STEVEFLASH
+            titulo: STEVEFLASh
             id: br.com.steveflash.app
             url: https://davidvcod.github.io/STEVEFLASH-/
     steps:
